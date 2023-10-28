@@ -1,0 +1,17 @@
+{
+  "name": "sse",
+  "version": "1.0.0",
+  "description": "sse/event source",
+  "main": "index.js",
+  "repository": "git@github.com:micrometre/sse.git",
+  "author": "Henok <henokmicrometre@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js ",
+    "start": "node  index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {}
+}
